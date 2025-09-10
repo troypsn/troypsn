@@ -10,7 +10,7 @@ I enjoy things from gaming, producing music and graphic designing. Currently stu
 
 I am aspiring to further enchance and develop my creative thinking skills through project based learning 🗃️.
 
-SkillS:
+Skills:
 Layout Designer | Creative | Project Manager | 
 
 
