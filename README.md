@@ -1,6 +1,7 @@
 ## Hello 👋, Welcome to my Profile!
 
-<img width="418" height="373" alt="pic_troy" src="https://github.com/user-attachments/assets/bb0b77f3-45be-4ec1-b4dc-a12ab2da93c0" />
+![336224da-4237-4306-a81d-0ecb8677cdc9](https://github.com/user-attachments/assets/825e590a-a922-492e-a6ac-e74bd446949b)
+
 
 My name is Troy Tyus A. Pineda. I am a BS Computer Science Student at Pampanga State University 💾.
 
