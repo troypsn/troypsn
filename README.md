@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hello 👋, Welcome to my Profile!
 
+<img width="418" height="373" alt="pic_troy" src="https://github.com/user-attachments/assets/bb0b77f3-45be-4ec1-b4dc-a12ab2da93c0" />
+
+My name is Troy Tyus A. Pineda. I am a BS Computer Science Student at Pampanga State University 💾.
+
+I enjoy things from gaming, producing music and graphic designing. Currently studying react js and node js 🌐. 
+
+I am aspiring to further enchance and develop my creative thinking skills through project based learning 🗃️.
+
+SkillS:
+Layout Designer | Creative | Project Manager | 
 <!--
 **troypsn/troypsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
