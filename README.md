@@ -20,5 +20,5 @@ Layout Designer | Creative | Project Manager |
 - 💬 Ask me about music!
 - 📫 How to reach me: IG: tastykopi 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am very sporty to the point taht, I joined both football and basketball teams in my school on the same year.
+- ⚡ Fun fact: I am very sporty to the point thatt, I joined both football and basketball teams in my school on the same year.
 
